@@ -55,7 +55,7 @@ https://github.com/Pranav452/Welcome-to-Open-Source
 
 ### **3. Links to your submitted Pull Requests:**
 
-**Pull Request #1:** [ADD YOUR PR LINK HERE WHEN CREATED]
+**Pull Request #1:** https://github.com/alisolanki/Welcome-to-Open-Source/pull/3580
 - **Title:** Pranav Nair 🍉 - Fixed HTML formatting issues and added contribution
 - **Files Changed:** README.md, CONTRIBUTING.md
 - **Type:** Bug fixes and quality improvements
